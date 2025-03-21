@@ -21,7 +21,7 @@ This project is a **Flutter mobile application** that allows users to **upload i
 ## Installation & Setup
 ### 1. Clone the Repository
 ```bash
- git clone <your-repository-url>
+ git clone https://github.com/juliandivakaran/privategalary
 ```
 
 ### 2. Set Up the Backend (PHP & MySQL)
